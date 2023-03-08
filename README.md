@@ -1,2 +1,2 @@
-# portfolio
-My Frontend Mentor repository
+# Portfolio - my Frontend Mentor repository
+Front-end developer in progress...
